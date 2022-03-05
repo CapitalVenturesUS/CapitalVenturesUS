@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CapitalVenturesUS
+- 👀 I’m interested in crypto currencies
+- 🌱 I’m currently learning how to create a public and private key pair from scratch
+- 💞️ I’m looking to collaborate on the above
+- 📫 How to reach me: dls@capitalventuresllc.com
